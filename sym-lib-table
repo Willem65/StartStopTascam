@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "Arduino_Uno_R3_From_Scratch-cache")(type "Legacy")(uri "${KIPRJMOD}/Arduino_Uno_R3_From_Scratch-cache.lib")(options "")(descr ""))
-  (lib (name "StartStopTascam-rescue")(type "Legacy")(uri "${KIPRJMOD}/StartStopTascam-rescue.lib")(options "")(descr ""))
-)
