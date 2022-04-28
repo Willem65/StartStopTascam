@@ -1,0 +1,155 @@
+Cmp-Mod V01 Created by PcbNew   date = 28/04/2022 23:58:17
+
+BeginCmp
+TimeStamp = bbaf1393-16a2-490a-96b7-13ea7f4045db
+Path = /00000000-0000-0000-0000-0000625c7270
+Reference = XA1;
+ValeurCmp = Arduino_Uno_Shield;
+IdModule  = Arduino:Arduino_Uno_Shield_Hat;
+EndCmp
+
+BeginCmp
+TimeStamp = 34f95694-b437-44d8-aa35-c7d295f1b93d
+Path = /00000000-0000-0000-0000-0000625d44ab
+Reference = J3;
+ValeurCmp = DB9_Male;
+IdModule  = Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 7e1ceaa8-f585-4844-9dca-e9189a89119b
+Path = /3936828e-a5aa-42df-af29-dbe71c6335f2
+Reference = J2;
+ValeurCmp = Jack_Stack_LJB0671;
+IdModule  = D&R_Conn:LJB0671-12;
+EndCmp
+
+BeginCmp
+TimeStamp = d7678225-9962-4b6c-8ac6-79810f77c6a5
+Path = /00000000-0000-0000-0000-0000625b4848
+Reference = U1;
+ValeurCmp = MAX232;
+IdModule  = Package_DIP:DIP-16_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = e4deb2aa-5602-4d24-baee-8301e95df3c1
+Path = /9bed721b-6e42-4131-b055-0a481c16649f
+Reference = J1;
+ValeurCmp = Jack_Stack_LJB0671;
+IdModule  = D&R_Conn:LJB0671-12;
+EndCmp
+
+BeginCmp
+TimeStamp = f699494a-77d6-4c73-bd50-29c1c1c5b879
+Path = /00000000-0000-0000-0000-0000625d7c8d
+Reference = P1;
+ValeurCmp = CONN_02X03;
+IdModule  = D&R_Conn:HEADER_2x3P;
+EndCmp
+
+BeginCmp
+TimeStamp = 349b09c3-d9cf-4036-85f7-8c2d6f1323a9
+Path = /0ae0dde3-a8f0-402c-b308-f4d09e8aaec5
+Reference = C3;
+ValeurCmp = 10U-X5R_25V#1210;
+IdModule  = D&R_Passive:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 4c4cb969-4eda-4055-815a-a0432e5b47dc
+Path = /aa3e4be7-7fe4-4ee4-af5d-1883bd644b09
+Reference = R4;
+ValeurCmp = 4k7;
+IdModule  = D&R_Passive:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 4d5e264a-4eff-4b64-b5bb-4db226734f0b
+Path = /5d0174ff-01bd-4421-9f37-be63c270d588
+Reference = R3;
+ValeurCmp = 4k7;
+IdModule  = D&R_Passive:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 52a8f1be-73ca-41a8-bc24-2320706b0ec1
+Path = /83f4e58e-8e79-43de-bccf-a6d767a186c1
+Reference = C7;
+ValeurCmp = 10U-X5R_25V#1210;
+IdModule  = D&R_Passive:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 62a1f3d4-027d-4ecf-a37a-6fcf4263e9d2
+Path = /00000000-0000-0000-0000-00006262f432
+Reference = C6;
+ValeurCmp = 100N-X7R_50V#0603;
+IdModule  = D&R_Passive:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 691af561-538d-4e8f-a916-26cad45eb7d6
+Path = /c0f2b448-0743-494b-8efb-7f2256b0bc5b
+Reference = C1;
+ValeurCmp = 100N-X7R_50V#0603-D&R_Passive;
+IdModule  = D&R_Passive:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 78424f0b-9420-4d91-a378-02d8d145439e
+Path = /00000000-0000-0000-0000-00006264c3fb
+Reference = R1;
+ValeurCmp = 4k7;
+IdModule  = D&R_Passive:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 8425dc64-4819-4cd3-afa8-7be23fa21686
+Path = /f6b3def0-abb3-4080-a34c-496146beb184
+Reference = C4;
+ValeurCmp = 10U-X5R_25V#1210;
+IdModule  = D&R_Passive:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 9529c01f-e1cd-40be-b7f0-83780a544249
+Path = /639ca422-47e3-433d-8434-ccd322d0201f
+Reference = C5;
+ValeurCmp = 10U-X5R_25V#1210;
+IdModule  = D&R_Passive:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = b141339d-8fdd-4b22-a5d1-18526869912a
+Path = /df6ae40a-8dee-42ce-b076-f6e9e5416b84
+Reference = C8;
+ValeurCmp = 100N-X7R_50V#0603-D&R_Passive;
+IdModule  = D&R_Passive:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = cee4ba28-1299-487b-b84b-964a102dc786
+Path = /e4a72e04-ae8d-4b9e-960b-6be2da4a08ea
+Reference = C9;
+ValeurCmp = 100N-X7R_50V#0603-D&R_Passive;
+IdModule  = D&R_Passive:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = ecad3db5-30bf-4531-b9e9-ecf2fd1ed843
+Path = /00000000-0000-0000-0000-00006264d43f
+Reference = R2;
+ValeurCmp = 4k7;
+IdModule  = D&R_Passive:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = f3044f68-903d-4063-b253-30d8e3a83eae
+Path = /1e808f8e-bd3f-4c59-a563-0bcf53d53280
+Reference = C2;
+ValeurCmp = 100N-X7R_50V#0603-D&R_Passive;
+IdModule  = D&R_Passive:C_0603;
+EndCmp
+
+EndListe
