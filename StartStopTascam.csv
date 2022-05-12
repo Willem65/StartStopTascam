@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J3";"DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm";1;"DB9_Male";;;
+2;"D1";"LED_D3.0mm_IRBlack";1;"TSAL4400";;;
+3;"J2,J1";"LJB0671-12";2;"Jack_Stack_LJB0671";;;
+4;"XA1";"Arduino_Uno_Shield_Hat";1;"Arduino_Uno_Shield";;;
+5;"U1";"DIP-16_W7.62mm";1;"MAX232";;;
+6;"P1";"HEADER_2x3P";1;"CONN_02X03";;;
+7;"C3,C7,C4,C5";"C_1210";4;"10U-X5R_25V#1210";;;
+8;"R4,R3,R1,R2";"C_0603";4;"4k7";;;
+9;"C6";"C_0603";1;"100N-X7R_50V#0603";;;
+10;"C1,C8,C9,C2";"C_0603";4;"100N-X7R_50V#0603-D&R_Passive";;;
+11;"R5";"R_0603";1;"470R#0603";;;
